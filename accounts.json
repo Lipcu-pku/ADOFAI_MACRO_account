@@ -8,7 +8,7 @@
             "Discord": "lipcu_"
         },
         "Role": "Admin",
-        "Status": "true"
+        "Activated": true
     }, 
     "26222C18-BF77-11EA-98E6-DAE5BEB57600": {
         "User": "PurpleFuction", 
@@ -17,6 +17,6 @@
             "QQ": "319664035"
         },
         "Role": "User", 
-        "Status": "true"
+        "Activated": true
     }
 }
