@@ -18,5 +18,14 @@
         },
         "Role": "User", 
         "Activated": true
+    },
+    "D450CF80-CC4C-11ED-A2B0-20C7F1F92800": {
+        "User": "__file__",
+        "Account": {
+            "Bilibili": "https://space.bilibili.com/1843518597", 
+            "QQ": "12398480"
+        },
+        "Role": "User", 
+        "Activated": true
     }
 }
