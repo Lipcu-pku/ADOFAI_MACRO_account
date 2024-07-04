@@ -34,6 +34,6 @@
             "QQ": "3935341442"
         },
         "Role": "User",
-        "Activated": "true"
+        "Activated": true
     }
 }
