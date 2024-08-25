@@ -35,5 +35,13 @@
         },
         "Role": "User",
         "Activated": true
+    },
+    "7841D89D-9057-11EC-80F1-88A4C2B6B8E6": {
+        "User": "你怎么神经兮兮的",
+        "Account": {
+            "QQ": "3223084331"
+        },
+        "Role": "User",
+        "Activated": true
     }
 }
