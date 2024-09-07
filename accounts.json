@@ -48,6 +48,8 @@
         "User": "Sam", 
         "Account": {
             "QQ": "466618707"
-        }
+        },
+        "Role": "User",
+        "Activated": true
     }
 }
