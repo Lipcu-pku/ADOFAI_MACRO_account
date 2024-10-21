@@ -31,6 +31,7 @@
     "98051DAE-F1F7-554C-A2B4-EFAA345B8E93": {
         "User": "owosean", 
         "Account": {
+            "Bilibili": "https://space.bilibili.com/1917763440",
             "QQ": "3935341442"
         },
         "Role": "User",
@@ -39,6 +40,7 @@
     "7841D89D-9057-11EC-80F1-88A4C2B6B8E6": {
         "User": "你怎么神经兮兮的",
         "Account": {
+            "Bilibili": "https://space.bilibili.com/505528251",
             "QQ": "3223084331"
         },
         "Role": "User",
@@ -47,6 +49,7 @@
     "801A2CD0-BE16-24F3-36CF-CC28AACFD64E": {
         "User": "Sam", 
         "Account": {
+            "Bilibili": "https://space.bilibili.com/512479134",
             "QQ": "466618707"
         },
         "Role": "User",
@@ -55,7 +58,17 @@
     "03C00218-044D-0518-2806-770700080009": {
         "User": "Fallen_Fish",
         "Account": {
+            "Bilibili": "https://space.bilibili.com/484655897",
             "QQ": "1216026252"
+        },
+        "Role": "User",
+        "Activated": true
+    },
+    "16844863-91E4-6445-8CDF-CF84ABDEC99B": {
+        "User": "福瑞老吴",
+        "Account": {
+            "Bilibili":"https://space.bilibili.com/2113543626",
+            "QQ": "3378769778"
         },
         "Role": "User",
         "Activated": true
